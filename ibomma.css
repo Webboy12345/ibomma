@@ -41,13 +41,19 @@
 }
 button {
   background-color: #6ac045;
-  color: black;
+  color: white;
   font-size: 20px;
   border-radius: 5px;
   width: 90px;
   height: 35px;
   letter-spacing: 3px;
   margin-top: 4%;
+}
+
+  #b1{
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
 
 #p2 {
